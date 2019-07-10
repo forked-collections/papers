@@ -5,3 +5,4 @@
 - DSSM -> [post](https://kishorepv.github.io/DSSM/) [paper](https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf)
 - Neural Vector spaces for information retrieval -> [paper](https://arxiv.org/pdf/1708.02702.pdf)
 - Dual Space Embedding Model -> [paper](https://arxiv.org/pdf/1602.01137.pdf)
+- ec2GAN for Product Embedding -> [paper](https://arxiv.org/pdf/1801.03244.pdf)
