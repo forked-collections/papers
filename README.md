@@ -6,3 +6,4 @@
 - Neural Vector spaces for information retrieval -> [paper](https://arxiv.org/pdf/1708.02702.pdf)
 - Dual Space Embedding Model -> [paper](https://arxiv.org/pdf/1602.01137.pdf)
 - ec2GAN for Product Embedding -> [paper](https://arxiv.org/pdf/1801.03244.pdf)
+- wikimatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia -> [paper](https://arxiv.org/pdf/1907.05791.pdf) [code](https://github.com/facebookresearch/faiss)
