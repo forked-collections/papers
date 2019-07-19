@@ -8,3 +8,4 @@
 - ec2GAN for Product Embedding -> [paper](https://arxiv.org/pdf/1801.03244.pdf)
 - wikimatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia -> [paper](https://arxiv.org/pdf/1907.05791.pdf) [code](https://github.com/facebookresearch/faiss) [LASER_code](https://github.com/facebookresearch/LASER)
 - [designing good forecasting method](https://www.youtube.com/watch?v=0zpg9ODE6Ww)
+-[time2vec](https://arxiv.org/pdf/1907.05321.pdf)
