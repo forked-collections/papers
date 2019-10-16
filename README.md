@@ -9,3 +9,4 @@
 - wikimatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia -> [paper](https://arxiv.org/pdf/1907.05791.pdf) [code](https://github.com/facebookresearch/faiss) [LASER_code](https://github.com/facebookresearch/LASER)
 - [designing good forecasting method](https://www.youtube.com/watch?v=0zpg9ODE6Ww)
 - [time2vec](https://arxiv.org/pdf/1907.05321.pdf)
+- [TextBoxes](https://arxiv.org/pdf/1611.06779.pdf)
